@@ -20,7 +20,7 @@ setup(
     long_description=open('README.rst').read(),
     author='django-notifications team',
     author_email='yang@yangyubo.com',
-    url='http://github.com/django-notifications/django-notifications',
+    url='https://bitbucket.org/ubcards/django-notifications',
     install_requires=[
         'django>=1.7',
         'django-model-utils>=2.0.3',
